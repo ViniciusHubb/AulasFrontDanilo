@@ -19,7 +19,7 @@ footer {
     font-family: 'Courier New', Courier, monospace;
 }
 
-#menuDanilo {
+#menuVinícius {
     background-color: var(--cor3);
     padding: 1em;     
 }
@@ -36,7 +36,7 @@ footer {
     text-align: center;
 }
 
-a.menuDanilo {
+a.menuVinícius {
     color: var(--cor1);
     text-decoration: none;
     font-weight: bold;
@@ -48,7 +48,7 @@ a.menuDanilo {
 }
 
 
-a.menuDanilo:hover {
+a.menuVinícius:hover {
     background-color: var(--cor4);
     color: var(--corBranca);
 }
